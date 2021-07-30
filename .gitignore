@@ -1,5 +1,5 @@
 #file name with new-file.txt will be ignored
-another-file.txt 
+new-file.txt 
 
 #all the files in the bin directory will be ignored
 bin/

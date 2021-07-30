@@ -1,0 +1,8 @@
+#file name with new-file.txt will be ignored
+new-file.txt 
+
+#all the files in the bin directory will be ignored
+bin/
+
+# all files with .tmp extension will be ignored
+*.tmp
